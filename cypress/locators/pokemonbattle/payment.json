@@ -1,0 +1,9 @@
+{
+  "card_number": ".payment_form_card_form > :nth-child(2) > .style_1_base_input",
+  "expires": ":nth-child(1) > .style_1_base_input",
+  "cvv": ".payment_form_card_form_inputs > :nth-child(2) > .style_1_base_input",
+  "cardholder": ".payment_form_card_form_input_last > .style_1_base_input",
+  "buy_button": ".style_1_base_button_payment_body > .style_1_base_button_payment",
+  "back": "font"
+
+}
