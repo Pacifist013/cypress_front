@@ -1,4 +1,9 @@
 {
-	"login":"user_login",
-	"password":"user_password"
+	"login":"german@dolnikov.ru",
+	"password":"iLoveqastudio1",
+	"wrong_login":"nikita@dolnikov.ru",
+	"wrong_password":"qastudio1",
+	"test_email":"test@test.com",
+	"validation_login_test":"germandolnikov.ru",
+	"capital_login_test":"GerMan@Dolnikov.ru"
 }

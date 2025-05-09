@@ -1,0 +1,8 @@
+{
+  "main_page_button": ".header_interactive_button_logo > .interactive_button",
+  "pokemons_button": ".header_interactive_button_link_to_pokemons > .interactive_button",
+  "trainers_button": ".header_interactive_button_link_to_trainers > .interactive_button",
+  "raiting_button": ".header_interactive_button_link_to_rating > .interactive_button",
+  "my_trainer": ".header_card_trainer",
+  "log_out": ".header_interactive_button_exit > .interactive_button > .wrapper_img > .interactive_button_img"
+}

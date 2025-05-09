@@ -1,0 +1,11 @@
+{
+  "title": ".style_1_popup_white_title",
+  "email": "#k_email",
+  "password": "#k_password",
+  "login_button": ".MuiButton-root",
+  "recovery_button": ".style_1_popup_white_link_left",
+  "register_button": ".style_fix_1",
+  "healthcheck": ".status_url > img",
+  "version": ".k_footer_container_version",
+  "logo": ".footer_studio"
+}
